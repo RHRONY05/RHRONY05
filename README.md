@@ -1,5 +1,7 @@
-# 💫"Hello! I’m Muhammad Robiul Hasan Rony👋. CSE undergraduate student at CUET."
-<br><br><br>🌱 "Currently, I’m diving deeper into JavaScript and expanding my skills in Node.js, React, and React Native to strengthen my front-end and full-stack development knowledge. I’m also exploring MongoDB for backend development, which adds versatility to my projects with data management. Additionally, I’m building a solid foundation in C++ to enhance my understanding of computer science fundamentals.<br><br>These languages and tools allow me to craft both efficient web and mobile applications, blending both backend logic and dynamic front-end experiences. I’m excited to continue exploring and mastering these technologies as I build my career in development."<br>
+# "Hello! I’m Muhammad Robiul Hasan Rony👋"
+<h2>💫CSE undergraduate student at CUET.</h2>
+<br><br>🌱 "Currently, I’m diving deeper into JavaScript and expanding my skills in Node.js, React, and React Native to strengthen my front-end and full-stack development knowledge. I’m also exploring MongoDB for backend development, which adds versatility to my projects with data management. Additionally, I’m building a solid foundation in C++ to enhance my understanding of computer science fundamentals.<br><br>These languages and tools allow me to craft both efficient web and mobile applications, blending both backend logic and dynamic front-end experiences. I’m excited to continue exploring and mastering these technologies as I build my career in development."<br><br><br>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQFa7CjG-2ztLw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1692988448125?e=2147483647&v=beta&t=EcA5Q5QRNuUxf_fuDLAmo0REpMFI9nTolcR6ccqzENM" alt="img not found"/>
 
 
 ## 🌐 Socials:
