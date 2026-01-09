@@ -1,20 +1,114 @@
-# "Hello! I’m Muhammad Robiul Hasan Rony👋"
-<h2>💫CSE undergraduate student at CUET.</h2>
-<br><br>🌱 "Currently, I’m diving deeper into JavaScript and expanding my skills in Node.js, React, and React Native to strengthen my front-end and full-stack development knowledge. I’m also exploring MongoDB for backend development, which adds versatility to my projects with data management. Additionally, I’m building a solid foundation in C++ to enhance my understanding of computer science fundamentals.<br><br>These languages and tools allow me to craft both efficient web and mobile applications, blending both backend logic and dynamic front-end experiences. I’m excited to continue exploring and mastering these technologies as I build my career in development."<br><br><br>
-<img src="https://github.com/HuXn-WebDev/Zero-To-FullStack-JS-Course/raw/main/thumb.png" alt="img not found"/>
+<div align="center">
+  <h1 align="center">Hi there, I'm Robiul Hasan Rony! 👋</h1>
+  <h3 align="center">CSE Undergraduate (3rd Year) @ CUET</h3>
+  <p align="center">
+     <b>Full Stack Engineer | Automation Specialist | Competitive Programmer</b>
+     <br/>
+     I build scalable web systems, design complex automation workflows, and solve algorithmic challenges.
+  </p>
+</div>
 
+<img src="https://github.com/HuXn-WebDev/Zero-To-FullStack-JS-Course/raw/main/thumb.png" alt="img not found" width="100%" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rhrony05) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rhrony05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhrony0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhrony05) 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,18&height=180&section=header&text=✨%20Code.%20Automate.%20Deploy.%20✨&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn" />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rhrony05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rhrony05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhrony05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">🌐 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
+  </a>
+  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rhrony05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Technical Arsenal
+I specialize in the MERN stack, system automation, and scalable backend logic.
+
+<table>
+  <tr>
+    <td align="center" width="120"><b>Frontend & UI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,redux,figma" />
+      <br/>
+      <img src="https://img.shields.io/badge/Flowbite-1A56DB?style=flat&logo=flowbite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,cs,python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,netlify" />
+      <br/>
+      <img src="https://img.shields.io/badge/VPS_Server-232F3E?style=flat&logo=server&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Automation & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Bolt.new-FFD700?style=flat" />
+      <img src="https://img.shields.io/badge/Lovable-FF4081?style=flat" />
+      <img src="https://img.shields.io/badge/Kiro-7B1FA2?style=flat" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🏆 Competitive Programming
+I actively solve problems to sharpen my logic and algorithmic skills.
+
+<p>
+  <a href="https://codeforces.com/profile/RHRONY05" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/RHRONY05" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<br />
+
+### 🔥 GitHub Analytics
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RHRONY05&theme=merko&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=RHRONY05&layout=compact&langs_count=6&theme=merko&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
