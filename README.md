@@ -1,95 +1,95 @@
-<!-- LAYOUT: this skeleton stays fixed. Sections marked LIVING are the ones that change as you learn — swap their content, keep the layout. -->
-
 <div align="center">
 
-# Hi there, I'm Rony!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="34" /> Muhammad Rony
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Software+Developer+%E2%80%94+Web+%26+AI;CS+Undergrad+%40+CUET;I+plan+with+AI%2C+then+build+module+by+module.;Making+ShopMate+AI+agent+genuinely+useful.)](https://github.com/RHRONY05)
+### Software Developer · Web & AI Systems
 
-**RH.RONY** · **RONY.DEV** · Building for the web, one deploy at a time
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7857&center=true&vCenter=true&width=650&lines=Software+Developer+%E2%80%94+Web+%26+AI;CSE+Undergraduate+%40+CUET;Building+agentic+workflows+%26+scalable+web+apps;ShopMate+AI+%2B+Distributed+Systems)](https://github.com/RHRONY05)
+
+**RH.RONY** · Building for the web, one deploy at a time
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-151817?style=for-the-badge&logo=firefox&logoColor=FF7857)](https://rhrony05.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhrony05)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrony147@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rhrony_05)
 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,18&height=180&section=header&text=Code.%20Automate.%20Deploy.&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151817,100:ff7857&height=180&section=header&text=Code.%20Automate.%20Deploy.&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn" />
 </div>
 
-### About me
+### 👨‍💻 About Me
 
-- Right now I'm enhancing **ShopMate AI** — making its agent genuinely useful and its interface polished (in progress, see below).
-- How I build: I plan with AI, write the spec, set up the agent and the environment — then we work module by module, testing each module before moving forward.
-- CSE Undergraduate @ CUET, Bangladesh.
-
-<!-- LIVING: update this section as you learn — the layout stays, the lines change. -->
-
-### Currently learning & building
-
-- Making ShopMate AI's agent genuinely useful — and its interface polished.
-- This profile updates as I do: new tools, new patterns, new projects. The sections stay; the contents grow.
-
-### Let's connect
-
-<p align="center">
-  <a href="https://rhrony05.me" target="_blank">Portfolio</a> ·
-  <a href="https://linkedin.com/in/rhrony05" target="_blank">LinkedIn</a> ·
-  <a href="mailto:muhammadrony147@gmail.com">Email</a> ·
-  <a href="https://x.com/rhrony_05" target="_blank">X</a>
-</p>
+- 🚀 Right now I'm building **[ShopMate AI](https://github.com/RHRONY05/Shopmate_Ai)** — an autonomous AI shopping agent & stylist with agentic workflows and a polished interface.
+- 🌐 Deepening systems foundations through **[Computer Networks](https://github.com/RHRONY05/Computer-Networks)** — socket programming, protocol design, and network layer architecture.
+- ⚙️ **How I build:** Plan with AI, write the spec, set up the agent and environment — work module by module, testing each piece before moving forward.
+- 🎓 CSE Undergraduate @ CUET, Bangladesh.
 
 ---
 
-<!-- LIVING: stack grows as you learn — add items here, layout stays. -->
+### 🚀 Currently Learning & Building
 
-### What I work with
+- 🛠️ **Building:** **[ShopMate AI](https://github.com/RHRONY05/Shopmate_Ai)** — crafting an autonomous shopping agent with tool use, multi-step reasoning, and clean state handling.
+- 📚 **Learning:** **[Computer Networks](https://github.com/RHRONY05/Computer-Networks)** — transport layer internals, TCP/UDP sockets, HTTP/3, and distributed networking fundamentals.
+
+---
+
+### 🛠️ What I Work With
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,supabase,postgres,prisma,docker,nginx,linux,githubactions,vitest&perline=8" alt="Tech Stack Icons" />
+</div>
+
+<br/>
 
 - **Languages & Frameworks:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
-- **Backend & Data:** Node.js, Express, Supabase, PostgreSQL, Prisma
-- **Tools & Infra:** n8n, Docker, Nginx, VPS (Linux), GitHub Actions
-- **Testing:** Vitest, Playwright (agent-orchestrated)
+- **Backend & Databases:** Node.js, Express, Supabase, PostgreSQL, Prisma
+- **DevOps, Infra & CI/CD:** n8n, Docker, Nginx, Linux (VPS), GitHub Actions
+- **Testing:** Vitest, Playwright (Agent-orchestrated)
 
-> Testing, the honest version: my agents run the unit, integration & E2E tests (Vitest, Playwright). Setting the agent up properly — context, workflow, verification loops — is the actual skill.
+> **Testing, the honest version:** My agents run the unit, integration, and E2E suites (Vitest, Playwright). Designing the spec, environment context, and verification loops is where the engineering happens.
 
 ---
 
-<!-- LIVING: add new projects here as they ship — same table, new rows. -->
-
-### Projects worth clicking
+### 📌 Projects Worth Clicking
 
 | Project | What it is | Status |
 |---|---|---|
 | [SabaiHealth](https://sabaihealth.com) | Bilingual (Thai/English) health platform — real client work, NDA e-signatures | Live |
 | [CineReserve](https://movies.rhrony05.me) | Movie booking app with concurrency-safe seat locking (PostgreSQL row locks, Docker/VPS/CI-CD) | Live |
-| [ShopMate AI](https://github.com/RHRONY05/Shopmate_Ai) | AI shopping agent + stylist — the one I'm making genuinely useful right now | In progress |
-| [Portfolio](https://rhrony05.me) | My own corner of the internet (Next.js, Three.js) | Live |
-| [Vocab](https://vocab.rhrony05.me) | Vocabulary app | Live |
-| [ZoomFlow](https://github.com/RHRONY05) | Flow + focus tooling | Live |
+| [ShopMate AI](https://github.com/RHRONY05/Shopmate_Ai) | AI shopping agent + stylist — agentic workflows, currently making it genuinely useful | In progress |
+| [Portfolio](https://rhrony05.me) | Interactive 3D personal corner of the web (Next.js, Three.js) | Live |
+| [Vocab](https://vocab.rhrony05.me) | Vocabulary app with practical context & nuances | Live |
+| [ZoomFlow](https://github.com/RHRONY05) | Flow + focus productivity tooling | Live |
 
 ---
 
-### GitHub stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RHRONY05&show_icons=true&bg_color=151817&title_color=ff7857&text_color=e5e5e5&icon_color=59c7a6&border_color=424843" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RHRONY05&layout=compact&langs_count=6&bg_color=151817&title_color=ff7857&text_color=e5e5e5&border_color=424843" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RHRONY05&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=ff7857&text_color=c9d1d9&icon_color=59c7a6&border_color=30363d" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RHRONY05&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff7857&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
 </div>
 
 ---
 
-### Watch the snake eat my contributions
+### ☕ Developer Reality Check
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>The snake is powered by a GitHub Action that runs every 12 hours. If it's missing on first view, the Action just hasn't run yet — it shows up after the first run.</sub>
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="380" alt="Hacker Cat Typing at Speed of Light" />
+  <p><em>"Plan with AI, spec each module, run the tests... and watch the coffee turn into clean commits."</em></p>
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=0d1117&textColor=c9d1d9&borderColor=30363d&qColor=ff7857&aColor=59c7a6" alt="Developer Joke" />
+</div>
 
 ---
 
 <div align="center">
 
-*Thanks for stopping by — the snake eats daily, and the learning never stops.*
+*Thanks for stopping by — building for the web, one deploy at a time.*
 
 </div>
