@@ -1,10 +1,16 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/preview/assets/banner.jpg" width="100%" alt="RH.RONY - Software Developer · Web & AI Systems" />
+</div>
+
+<br/>
+
+<div align="center">
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="34" /> Muhammad Rony
 
 ### Software Developer · Web & AI Systems
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7857&center=true&vCenter=true&width=650&lines=Software+Developer+%E2%80%94+Web+%26+AI;CSE+Undergraduate+%40+CUET;Building+agentic+workflows+%26+scalable+web+apps;ShopMate+AI+%2B+Distributed+Systems)](https://github.com/RHRONY05)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7857&center=true&vCenter=true&width=650&lines=Software+Developer+%E2%80%94+Web+%26+AI;CSE+Undergraduate+%40+CUET;Building+agentic+workflows+%26+scalable+apps;ShopMate+AI+%2B+Distributed+Systems)](https://github.com/RHRONY05)
 
 **RH.RONY** · Building for the web, one deploy at a time
 
@@ -17,9 +23,7 @@
 
 </div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151817,100:ff7857&height=180&section=header&text=Code.%20Automate.%20Deploy.&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn" />
-</div>
+---
 
 ### 👨‍💻 About Me
 
@@ -80,8 +84,8 @@
 ### ☕ Developer Reality Check
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="380" alt="Hacker Cat Typing at Speed of Light" />
-  <p><em>"Plan with AI, spec each module, run the tests... and watch the coffee turn into clean commits."</em></p>
+  <img src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/preview/assets/ai-developer-meme.jpg" width="520" alt="AI Agent vs Developer Meme" />
+  <p><em>"AI agent writes 500 lines in 2 minutes... then I spend the rest of the day explaining the architecture, reviewing the PR, and testing like a maniac end-user."</em></p>
   <br/>
   <img src="https://readme-jokes.vercel.app/api?bgColor=0d1117&textColor=c9d1d9&borderColor=30363d&qColor=ff7857&aColor=59c7a6" alt="Developer Joke" />
 </div>
