@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/preview/assets/banner.png" width="100%" alt="RH.RONY Banner" />
+  <img src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/preview/assets/banner.jpg" width="100%" alt="RH.RONY Banner" />
 </div>
 
 <br/>
