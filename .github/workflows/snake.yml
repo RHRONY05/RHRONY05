@@ -26,6 +26,40 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Inject RONY arcade maze walls
+        run: |
+          node -e '
+          const fs = require("fs");
+          function inject(file, color, glow) {
+            if (!fs.existsSync(file)) return;
+            let svg = fs.readFileSync(file, "utf-8");
+            const maze = `
+            <g class="maze-name-walls" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.9" style="filter: drop-shadow(0 0 2px ${glow});">
+              <path d="M 160 2 V 110" />
+              <path d="M 160 2 H 234 V 56 H 160" />
+              <path d="M 176 18 H 218 V 40 H 176 Z" />
+              <path d="M 202 56 V 78 H 234 V 110" />
+              <path d="M 304 2 H 378 V 110 H 304 Z" />
+              <path d="M 320 18 H 362 V 94 H 320 Z" />
+              <path d="M 448 2 V 110" />
+              <path d="M 522 2 V 110" />
+              <path d="M 448 2 H 466 V 30 H 486 V 58 H 504 V 86 H 522 V 110" />
+              <path d="M 592 2 V 46 H 624 V 110" />
+              <path d="M 656 2 V 46 H 624" />
+              <path d="M 608 2 V 32 H 640 V 2" />
+            </g>`;
+            const idx = svg.indexOf("<rect class=\"s s0\"");
+            if (idx !== -1) {
+              svg = svg.slice(0, idx) + maze + svg.slice(idx);
+            } else {
+              svg = svg.replace("</svg>", maze + "</svg>");
+            }
+            fs.writeFileSync(file, svg, "utf-8");
+          }
+          inject("dist/github-contribution-grid-snake-dark.svg", "#ffffff", "rgba(255,255,255,0.5)");
+          inject("dist/github-contribution-grid-snake.svg", "#1f2328", "rgba(31,35,40,0.3)");
+          '
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
