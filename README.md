@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/preview/assets/banner.jpg" width="100%" alt="RH.RONY - Software Developer · Web & AI Systems" />
-</div>
-
-<br/>
-
-<div align="center">
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="34" /> Muhammad Rony
 
@@ -22,6 +16,14 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rhrony_05)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/preview/assets/banner.png" width="100%" alt="RH.RONY Banner" />
+</div>
+
+<br/>
 
 ---
 
@@ -81,12 +83,21 @@
 
 ---
 
-### ☕ Developer Reality Check
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/preview/assets/ai-developer-meme.jpg" width="520" alt="AI Agent vs Developer Meme" />
-  <p><em>"AI agent writes 500 lines in 2 minutes... then I spend the rest of the day explaining the architecture, reviewing the PR, and testing like a maniac end-user."</em></p>
-  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### ⚡ Developer Joke
+
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=0d1117&textColor=c9d1d9&borderColor=30363d&qColor=ff7857&aColor=59c7a6" alt="Developer Joke" />
 </div>
 
