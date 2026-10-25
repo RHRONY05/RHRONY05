@@ -26,50 +26,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Inject scattered RONY arcade maze sticks
-        run: |
-          node -e '
-          const fs = require("fs");
-          function inject(file, color, glow) {
-            if (!fs.existsSync(file)) return;
-            let svg = fs.readFileSync(file, "utf-8");
-            const maze = `
-            <g class="maze-name-walls" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.88" style="filter: drop-shadow(0 0 2px ${glow});">
-              <path d="M 160 2 V 42" />
-              <path d="M 160 62 V 110" />
-              <path d="M 174 2 H 230" />
-              <path d="M 234 16 V 42" />
-              <path d="M 176 56 H 220" />
-              <path d="M 206 70 V 90 H 234 V 110" />
-              <path d="M 304 36 V 2 H 336" />
-              <path d="M 352 2 H 378 V 36" />
-              <path d="M 304 76 V 110 H 336" />
-              <path d="M 352 110 H 378 V 76" />
-              <path d="M 326 36 H 356" />
-              <path d="M 326 76 H 356" />
-              <path d="M 448 2 V 42" />
-              <path d="M 448 62 V 110" />
-              <path d="M 522 2 V 42" />
-              <path d="M 522 62 V 110" />
-              <path d="M 466 18 H 482 V 40" />
-              <path d="M 488 56 H 504 V 78" />
-              <path d="M 592 2 V 34 H 612" />
-              <path d="M 656 2 V 34 H 636" />
-              <path d="M 624 52 V 76" />
-              <path d="M 624 88 V 110" />
-            </g>`;
-            const idx = svg.indexOf("<rect class=\"s s0\"");
-            if (idx !== -1) {
-              svg = svg.slice(0, idx) + maze + svg.slice(idx);
-            } else {
-              svg = svg.replace("</svg>", maze + "</svg>");
-            }
-            fs.writeFileSync(file, svg, "utf-8");
-          }
-          inject("dist/github-contribution-grid-snake-dark.svg", "#ffffff", "rgba(255,255,255,0.5)");
-          inject("dist/github-contribution-grid-snake.svg", "#1f2328", "rgba(31,35,40,0.3)");
-          '
-
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
