@@ -60,29 +60,16 @@
 | [CineReserve](https://movies.rhrony05.me) | Movie booking app with concurrency-safe seat locking (PostgreSQL row locks, Docker/VPS/CI-CD) | Live |
 | [ShopMate AI](https://github.com/RHRONY05/Shopmate_Ai) | AI shopping agent + stylist — agentic workflows, currently making it genuinely useful | In progress |
 | [Portfolio](https://rhrony05.me) | Interactive 3D personal corner of the web (Next.js, Three.js) | Live |
-| [Vocab](https://vocab.rhrony05.me) | Vocabulary app with practical context & nuances | Live |
-| [ZoomFlow](https://github.com/RHRONY05) | Flow + focus productivity tooling | Live |
+| [Vocab](https://github.com/RHRONY05/Vocab_App) | Vocabulary app with practical context & nuances | Live |
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RHRONY05&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=ff7857&text_color=c9d1d9&icon_color=59c7a6&border_color=30363d" alt="GitHub Stats" />
+  <img src="https://ghstats.dev/api/card?username=RHRONY05&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RHRONY05&layout=compact&langs_count=6&bg_color=0d1117&title_color=ff7857&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/RHRONY05/RHRONY05/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://ghstats.dev/api/langs?username=RHRONY05&theme=tokyonight&layout=bar" alt="Top Languages" />
 </div>
 
 ---
