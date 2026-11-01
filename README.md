@@ -67,9 +67,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=RHRONY05&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://ghstats.dev/api/langs?username=RHRONY05&theme=tokyonight&layout=bar" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=RHRONY05&theme=tokyonight&size=compact&compact_count=6" width="48%" alt="GitHub Stats" />
+  <img src="https://ghstats.dev/api/langs?username=RHRONY05&theme=tokyonight&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 ---
